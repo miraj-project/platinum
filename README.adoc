@@ -1,0 +1,9 @@
+polymer.platinum
+----------------
+
+Polymer Platinum clojure functions
+
+# usage
+
+link:http://clojars.org/polymer/platinum[image:http://clojars.org/polymer/platinum/latest-version.svg[]]
+
